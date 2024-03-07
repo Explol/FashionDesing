@@ -1,0 +1,5 @@
+services:
+- type: web
+  name: FashionDesign
+  env: docker
+  plan: free
